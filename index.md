@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My IT Journey to Systems, Security & Cloud Infrastructure
+title: Home
 ---
 
 <img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
@@ -39,7 +39,7 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 ### 🔗 Connect With Me
 
 🌐 [GitHub](https://github.com/presideookuguni)  
-💼 [LinkedIn](https://www.linkedin.com/in/presideo-okuguni)  
+💼 [LinkedIn](https://www.linkedin.com/in/presidoe-okuguni)  
 📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
 
 ---
