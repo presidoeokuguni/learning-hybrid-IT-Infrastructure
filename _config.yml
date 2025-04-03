@@ -1,1 +1,9 @@
 theme: minima
+
+title: learning-hybrid-IT-Infrastructure
+description: My Learning Journey in IT
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
