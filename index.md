@@ -3,7 +3,7 @@ layout: home
 title: My IT Journey to Systems, Security & Cloud Infrastructure
 ---
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Welcome to My IT Infrastructure Learning Journey
 
