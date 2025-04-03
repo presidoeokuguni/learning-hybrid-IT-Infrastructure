@@ -11,16 +11,17 @@ Hello, I'm **Presideo Okuguni** — a passionate and driven IT professional curr
 
 This website is a reflection of my **learning journey**, **technical growth**, and **commitment to building a future in IT support, cybersecurity, and cloud infrastructure**.
 
-🔧 **Currently, I'm working on my Capstone Project**, where I’m applying everything I’ve learned to design, secure, and document a functional IT infrastructure solution. It’s a culmination of my skills in networking, system administration, and technical problem-solving — and I look forward to sharing updates as the project evolves.
+**Currently, I'm working on my Capstone Project**, where I’m applying everything I’ve learned to design, secure, and document a functional IT infrastructure solution. It’s a culmination of my skills in networking, system administration, and technical problem-solving — and I look forward to sharing updates as the project evolves.
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **Network and Systems Administration** – BCIT (2025 Graduate)  
 - **CompTIA A+**, **Network+**, **Security+**  
-- ☁**Microsoft Azure Fundamentals (AZ-900)**  
-- **Digital Transformation & Process Improvement** – Beedie School of Business  
+- **Microsoft Azure Fundamentals (AZ-900)**  
+- **Digital Transformation (Process Improvement)** – Beedie School of Business
+- **Bachelors Degree, Information technology** - Stratford University  
 
 ---
 
