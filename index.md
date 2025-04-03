@@ -17,19 +17,19 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 
 ### 🎓 Education & Certifications
 
-- 🧠 **Network and Systems Administration** – BCIT (2025 Graduate)  
-- 📘 **CompTIA A+**, **Network+**, **Security+**  
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)**  
-- 🔧 **Digital Transformation & Process Improvement** – Beedie School of Business  
+- **Network and Systems Administration** – BCIT (2025 Graduate)  
+- **CompTIA A+**, **Network+**, **Security+**  
+- ☁**Microsoft Azure Fundamentals (AZ-900)**  
+- **Digital Transformation & Process Improvement** – Beedie School of Business  
 
 ---
 
-### 🧭 What You’ll Find Here
+### What You’ll Find Here
 
-- 💻 Real-world labs, simulations, and IT projects  
-- 🛠️ Solutions to common systems and network admin issues  
-- 📝 Technical blog posts and walkthroughs  
-- 📈 My journey into **IT Support**, **Cybersecurity**, and **Cloud Infrastructure**
+- Real-world labs, simulations, and IT projects  
+- Solutions to common systems and network admin issues  
+- Technical blog posts and walkthroughs  
+- My journey into **IT Support**, **Cybersecurity**, and **Cloud Infrastructure**
 
 > Whether you're an employer, mentor, or fellow learner, I'm excited you're here! Let's grow together. 🌱
 
@@ -39,14 +39,14 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 
 - 🌐 [GitHub](https://github.com/presideookuguni)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/presideo-okuguni)  
-- 📄 [View My Résumé (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
+- 📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 Want to collaborate or connect? Feel free to reach out!
 
 ```yaml
-📧 presideo.okuguni@email.com  
-📍 Vancouver, BC  
+presideo.okuguni@email.com  
+Vancouver, BC  
