@@ -38,9 +38,9 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 
 ### 🔗 Connect With Me
 
-- 🌐 [GitHub](https://github.com/presideookuguni)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/presideo-okuguni)  
-- 📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
+🌐 [GitHub](https://github.com/presideookuguni)  
+💼 [LinkedIn](https://www.linkedin.com/in/presideo-okuguni)  
+📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
 
 ---
 
@@ -48,6 +48,6 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 
 Want to collaborate or connect? Feel free to reach out!
 
-```yaml
+```
 presideo.okuguni@email.com  
 Vancouver, BC  
