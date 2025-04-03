@@ -3,7 +3,9 @@ layout: home
 title: Home
 ---
 
-<img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+<p align="center">
+  <img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
+</p>
 
 
 # Welcome to My IT Infrastructure Learning Journey
