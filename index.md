@@ -5,9 +5,9 @@ title: My IT Journey to Systems, Security & Cloud Infrastructure
 
 <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 
-# 👋 Welcome to My Tech Journey
+# Welcome to My IT Infrastructure Learning Journey
 
-Hi, I'm **Presideo Okuguni** — a passionate and driven IT professional currently completing the **Technology Support Professional Program** at the **British Columbia Institute of Technology (BCIT)**. With a strong focus on **Network and Systems Administration**, my training combines theory with hands-on experience in real-world lab environments.
+Hello, I'm **Presideo Okuguni** — a passionate and driven IT professional currently completing the **Technology Support Professional Program** at the **British Columbia Institute of Technology (BCIT)**. With a strong focus on **Network and Systems Administration**, my training combines theory with hands-on experience in real-world lab environments.
 
 This website is a reflection of my **learning journey**, **technical growth**, and **commitment to building a future in IT support, cybersecurity, and cloud infrastructure**.
 
