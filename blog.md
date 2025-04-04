@@ -2,7 +2,7 @@
 layout: default
 title: Knowledge Base
 hide_title: true
-permalink: /blog.html
+permalink: /blog/
 ---
 
 # Knowledge Base (Blog)
