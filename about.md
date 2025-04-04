@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /index.html
 hide_title: true
 ---
 
