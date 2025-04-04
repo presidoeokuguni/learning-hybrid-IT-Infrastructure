@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Home
+title: /
 permalink: /
+
 ---
 
 # Welcome to My IT Infrastructure Learning Journey
@@ -24,7 +25,7 @@ Thanks for visiting! Whether you're an employer, mentor, or fellow learner — I
 <br><br>
 <br><br>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 [GitHub](https://github.com/presideookuguni)  
 [LinkedIn](https://www.linkedin.com/in/presidoe-okuguni)  
