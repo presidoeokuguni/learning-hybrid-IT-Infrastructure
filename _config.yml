@@ -9,3 +9,4 @@ header_pages:
 
 include:
   - _layouts
+  - assets
