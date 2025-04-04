@@ -7,39 +7,25 @@ title: Home
   <img src="assets/images/presidoe-profile.png" alt="Presidoe Okuguni" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
 </p>
 
-
-
+<img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Welcome to My IT Infrastructure Learning Journey
 
-Hello, I'm **Presidoe Okuguni**, a passionate and driven IT professional currently completing the **Technology Support Professional Program** at the **British Columbia Institute of Technology (BCIT)**. With a strong focus on **Network and Systems Administration**, my training combines theory with hands-on experience in real-world lab environments.
+Hello, I'm **Presidoe Okuguni**
 
-This website is a reflection of my **learning journey**, **technical growth**, and **commitment to building a future in IT support, cybersecurity, and cloud infrastructure**.
+I'm a tech-driven problem solver, currently completing the **Technology Support Professional Program** at **BCIT**, specializing in **Network and Systems Administration**.
 
-**Currently, I'm working on my Capstone Project**, where I’m applying everything I’ve learned to design, secure, and document a functional IT infrastructure solution. It’s a culmination of my skills in networking, system administration, and technical problem-solving, and I look forward to sharing updates as the project evolves.
+This site showcases my learning journey, personal projects, and knowledge base — all built around my passion for IT support, cybersecurity, and cloud infrastructure.
 
+
+Capstone Project
+
+I’m currently working on my **Capstone Project**, where I’m designing and documenting a secure, functional IT infrastructure environment.
+
+I'll be sharing progress and insights on the [Knowledge Base](/blog) — check it out!
 ---
 
-### Education & Certifications
-
-- **Network and Systems Administration** – BCIT (2025 Graduate)  
-- **CompTIA A+**, **Network+**, **Security+**  
-- **Microsoft Azure Fundamentals (AZ-900)**  
-- **Digital Transformation (Process Improvement)** – Beedie School of Business
-- **Bachelors Degree, Information technology** - Stratford University  
-
----
-
-### What You’ll Find Here
-
-- Real-world labs, simulations, and IT projects  
-- Solutions to common systems and network admin issues  
-- Technical blog posts and walkthroughs  
-- My journey into **IT Support**, **Cybersecurity**, and **Cloud Infrastructure**
-
-> Whether you're an employer, mentor, or fellow learner, I'm excited you're here! Let's grow together. 🌱
-
----
+_Thanks for visiting! Whether you're an employer, mentor, or fellow learner — I'm excited you're here! Let's grow together. 
 
 ### 🔗 Connect With Me
 
@@ -48,10 +34,6 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
 
 ---
-
-### Contact Me
-
-Want to collaborate or connect? Feel free to reach out!
 
 ```
 presideoo@email.com  
