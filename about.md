@@ -2,7 +2,7 @@
 layout: page
 title: About
 hide_title: true
-permalink: /about.html
+permalink: /about/
 ---
 
 # About Me
