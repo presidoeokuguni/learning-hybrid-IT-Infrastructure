@@ -7,6 +7,7 @@ hide_title: true
 ---
 
 # Welcome to My IT Infrastructure Learning Journey
+<br><br>
 
 Hello, I'm **Presidoe Okuguni**
 
