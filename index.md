@@ -20,7 +20,7 @@ I am using this space to showcase my learning journey, personal projects, and kn
 I’m currently working on my **Capstone Project**, where I’m designing and documenting a secure, functional IT infrastructure environment. I'll be sharing progress and insights on the [Knowledge Base](/blog) check it out!
 
 
-Thanks for visiting! Whether you're an employer, mentor, or fellow learner — I'm excited you're here! Let's grow together. 
+Thanks for visiting! Whether you're an employer, mentor, or fellow learner, I'm excited you're here! Let's grow together. 
 <br><br>
 
 ### Connect With Me
