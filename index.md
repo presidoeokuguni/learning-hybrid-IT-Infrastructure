@@ -7,7 +7,6 @@ title: Home
   <img src="assets/images/presidoe-profile.png" alt="Presidoe Okuguni" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
 </p>
 
-<img src="https://github.com/presideookuguni.png" alt="Presideo Okuguni" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Welcome to My IT Infrastructure Learning Journey
 
