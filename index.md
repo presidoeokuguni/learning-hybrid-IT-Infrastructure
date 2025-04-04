@@ -30,9 +30,9 @@ Thanks for visiting! Whether you're an employer, mentor, or fellow learner — I
 
 ### 🔗 Connect With Me
 
-🌐 [GitHub](https://github.com/presideookuguni)  
-💼 [LinkedIn](https://www.linkedin.com/in/presidoe-okuguni)  
-📄 [View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
+[GitHub](https://github.com/presideookuguni)  
+[LinkedIn](https://www.linkedin.com/in/presidoe-okuguni)  
+[View My Resume (PDF)](https://yourdomain.com/resume.pdf) <!-- Update with your actual link -->
 
 
 
