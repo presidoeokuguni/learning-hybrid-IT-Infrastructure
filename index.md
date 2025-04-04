@@ -17,11 +17,9 @@ I'm a tech-driven problem solver, currently completing the **Technology Support 
 This site showcases my learning journey, personal projects, and knowledge base — all built around my passion for IT support, cybersecurity, and cloud infrastructure.
 
 
-Capstone Project
+**Capstone Project**
 
-I’m currently working on my **Capstone Project**, where I’m designing and documenting a secure, functional IT infrastructure environment.
-
-I'll be sharing progress and insights on the [Knowledge Base](/blog) — check it out!
+I’m currently working on my **Capstone Project**, where I’m designing and documenting a secure, functional IT infrastructure environment. I'll be sharing progress and insights on the [Knowledge Base](/blog) — check it out!
 ---
 
 _Thanks for visiting! Whether you're an employer, mentor, or fellow learner — I'm excited you're here! Let's grow together. 
