@@ -7,6 +7,14 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
   </head>
 
+  <nav>
+  <ul>
+    {% for page in site.header_pages %}
+      <li><a href="{{ site.baseurl }}{{ page | relative_url }}">{{ page | replace: '.md', '' | capitalize }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
   <body>
     <header>
       <div class="wrapper">
