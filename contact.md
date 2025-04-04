@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Home
+hide_title: true
 ---
 
 # Get in Touch
