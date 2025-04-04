@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /index.html
+permalink: /about.html
 hide_title: true
 ---
 
@@ -28,4 +28,4 @@ I'm **Presideo Okuguni**, currently completing the **Technology Support Professi
 - Network Design & Troubleshooting
 - IT Process Improvement
 
-> I believe in learning by doing — and this site reflects that philosophy.
+> I believe in learning by doing, and this site reflects that philosophy.
