@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Contact
 hide_title: true
-permalink: /contact.html
+permalink: /contact/
 ---
 
 # Get in Touch
