@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Knowledge Base
+permalink: /index.html
 hide_title: true
 ---
 
