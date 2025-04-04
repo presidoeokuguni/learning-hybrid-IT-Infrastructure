@@ -2,7 +2,7 @@ theme: minima
 description: My Learning Journey in IT
 
 header_pages:
-  - index.md
+  - home.md
   - about.md
   - blog.md
   - contact.md
