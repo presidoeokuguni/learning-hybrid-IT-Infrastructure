@@ -6,7 +6,7 @@ title: Home
 <p align="center">
   <img src="assets/images/presidoe-profile.png" alt="Presidoe Okuguni" width="150" style="box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
 </p>
-<br><br>
+
 
 
 # Welcome to My IT Infrastructure Learning Journey
@@ -14,15 +14,9 @@ title: Home
 Hello, I'm **Presidoe Okuguni**
 
 I'm a tech-driven problem solver, currently completing the **Technology Support Professional Program** at **BCIT**, specializing in **Network and Systems Administration**.
-<br><br>
-<br><br>
-<br><br>
 
 
 This site showcases my learning journey, personal projects, and knowledge base — all built around my passion for IT support, cybersecurity, and cloud infrastructure.
-<br><br>
-<br><br>
-<br><br>
 
 
 
