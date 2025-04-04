@@ -1,6 +1,5 @@
 theme: minima
-
-title: 
+title:
 description: My Learning Journey in IT
 
 header_pages:
@@ -8,3 +7,6 @@ header_pages:
   - about.md
   - blog.md
   - contact.md
+
+include:
+  - _layouts
