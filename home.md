@@ -5,7 +5,7 @@ permalink: /index.html
 hide_title: true
 
 ---
-
+<br><br>
 # Welcome to My IT Infrastructure Learning Journey
 <br><br>
 
