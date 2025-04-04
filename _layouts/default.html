@@ -1,37 +1,47 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    {% if page.css %}
-      <link rel="stylesheet" href="{{ page.css | relative_url }}">
-    {% endif %}
-    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
   </head>
 
   <body>
-    <header class="site-header" role="banner">
+    <header>
       <div class="wrapper">
-        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
-        <nav class="site-nav">
-          {% for path in site.header_pages %}
-            {% assign my_page = site.pages | where: "path", path | first %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endfor %}
+        <a href="{{ '/' | relative_url }}"><h1>{{ site.title }}</h1></a>
+        <nav>
+          <ul>
+            {% for page in site.pages %}
+              {% if page.title and page.nav_exclude != true %}
+                <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
         </nav>
       </div>
     </header>
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content">
       <div class="wrapper">
+        {% unless page.hide_title %}
+          <h1>{{ page.title }}</h1>
+        {% endunless %}
         {{ content }}
       </div>
     </main>
 
-    {% include_relative footer.html %}
+    <footer>
+      <div class="wrapper">
+        <ul class="footer-nav">
+          <li><a href="{{ '/index.html' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+          <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+          <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+        </ul>
+        <p style="margin-top: 10px;">© 2025 Presidoe Okuguni | All rights reserved</p>
+      </div>
+    </footer>
   </body>
 </html>
