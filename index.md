@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
 
 # Welcome to My IT Infrastructure Learning Journey
