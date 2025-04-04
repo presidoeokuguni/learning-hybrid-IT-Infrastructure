@@ -1,9 +1,10 @@
 theme: minima
 
-title: Presideo Okuguni
+title: 
 description: My Learning Journey in IT
 
 header_pages:
   - index.md
   - about.md
   - blog.md
+  - contact
