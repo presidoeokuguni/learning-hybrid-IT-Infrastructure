@@ -12,11 +12,11 @@ title: Home
 
 # Welcome to My IT Infrastructure Learning Journey
 
-Hello, I'm **Presideo Okuguni** — a passionate and driven IT professional currently completing the **Technology Support Professional Program** at the **British Columbia Institute of Technology (BCIT)**. With a strong focus on **Network and Systems Administration**, my training combines theory with hands-on experience in real-world lab environments.
+Hello, I'm **Presidoe Okuguni**, a passionate and driven IT professional currently completing the **Technology Support Professional Program** at the **British Columbia Institute of Technology (BCIT)**. With a strong focus on **Network and Systems Administration**, my training combines theory with hands-on experience in real-world lab environments.
 
 This website is a reflection of my **learning journey**, **technical growth**, and **commitment to building a future in IT support, cybersecurity, and cloud infrastructure**.
 
-**Currently, I'm working on my Capstone Project**, where I’m applying everything I’ve learned to design, secure, and document a functional IT infrastructure solution. It’s a culmination of my skills in networking, system administration, and technical problem-solving — and I look forward to sharing updates as the project evolves.
+**Currently, I'm working on my Capstone Project**, where I’m applying everything I’ve learned to design, secure, and document a functional IT infrastructure solution. It’s a culmination of my skills in networking, system administration, and technical problem-solving, and I look forward to sharing updates as the project evolves.
 
 ---
 
@@ -54,5 +54,5 @@ This website is a reflection of my **learning journey**, **technical growth**, a
 Want to collaborate or connect? Feel free to reach out!
 
 ```
-presideo.okuguni@email.com  
+presideoo@email.com  
 Vancouver, BC  
