@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="/presidoe-profile.jpg" alt="Presidoe Okuguni" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <img src="/presidoe-profile.png" alt="Presidoe Okuguni" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 20px;">
 </p>
 
 
