@@ -2,10 +2,10 @@ theme: minima
 description: My Learning Journey in IT
 
 header_pages:
-  - home.html
-  - about.html
-  - blog.html
-  - contact.html
+  - home.md
+  - about.md
+  - blog.md
+  - contact.md
 
 include:
   - _layouts
